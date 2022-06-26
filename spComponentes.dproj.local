@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/25 14:20:40.000.007,=rtl.dcp</Transaction>
+    <Transaction>2022/06/25 14:41:07.000.739,=rtl.dcp</Transaction>
+    <Transaction>2022/06/25 14:41:48.000.379,=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 14:42:54.000.592,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Classes\spQueryClass.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 14:43:07.000.639,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Classes\spComponentes.dproj=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2022/06/25 14:48:54.000.049,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Classes\spQueryClass.pas=</Transaction>
+    <Transaction>2022/06/25 14:52:18.000.965,=xmlrtl.dcp</Transaction>
+    <Transaction>2022/06/25 14:52:18.000.766,=dbrtl.dcp</Transaction>
+    <Transaction>2022/06/25 14:52:18.000.869,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2022/06/25 14:52:18.000.821,=FireDAC.dcp</Transaction>
+    <Transaction>2022/06/25 14:52:18.000.918,=FireDACCommon.dcp</Transaction>
+    <Transaction>2022/06/25 14:52:18.000.725,=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Classes\cspQuery.pas</Transaction>
+    <Transaction>2022/06/25 15:27:56.000.408,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Classes\uspQuery.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Classes\cspQuery.pas</Transaction>
+  </Transactions>
+</BorlandProject>

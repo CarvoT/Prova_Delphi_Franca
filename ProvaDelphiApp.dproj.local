@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/25 13:36:55.000.167,=C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 13:38:55.000.759,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\frmMenuPrincipal.dfm</Transaction>
+    <Transaction>2022/06/25 13:38:55.000.759,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\frmMenuPrincipal.pas</Transaction>
+    <Transaction>2022/06/25 13:39:08.000.834,C:\Users\noteLucas\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\ProvaDelphiApp.dproj</Transaction>
+    <Transaction>2022/06/25 14:04:37.000.567,=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 14:06:48.000.928,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa1.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.dfm</Transaction>
+    <Transaction>2022/06/25 14:06:48.000.928,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa1.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 14:07:27.000.892,=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 14:07:59.000.399,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa2.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 14:07:59.000.399,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa2.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.dfm</Transaction>
+    <Transaction>2022/06/25 14:08:11.000.247,=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 14:08:51.000.708,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa3.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.dfm</Transaction>
+    <Transaction>2022/06/25 14:08:51.000.708,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa3.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 18:11:53.000.304,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\ufTarefa1.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa1.dfm</Transaction>
+    <Transaction>2022/06/25 18:11:53.000.304,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\ufTarefa1.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa1.pas</Transaction>
+    <Transaction>2022/06/25 18:12:07.000.146,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\ufTarefa2.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa2.pas</Transaction>
+    <Transaction>2022/06/25 18:12:07.000.146,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\ufTarefa2.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa2.dfm</Transaction>
+    <Transaction>2022/06/25 18:12:13.000.717,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\ufTarefa3.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa3.pas</Transaction>
+    <Transaction>2022/06/25 18:12:13.000.717,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\ufTarefa3.dfm=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Tarefa3.dfm</Transaction>
+    <Transaction>2022/06/25 18:20:02.000.739,=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 18:20:19.000.544,C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Classes\uProcesso.pas=C:\Users\noteLucas\Documents\Embarcadero\Studio\ProvaFranca\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
